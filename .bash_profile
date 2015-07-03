@@ -23,4 +23,5 @@ alias ls='ls -F'
 # alias ls 'ls -F --color=auto'
 # setenv LS_COLORS 'fi=0:di=36:ln=95:ex=32'
 
+export EDITOR='vi'
 set history=100
