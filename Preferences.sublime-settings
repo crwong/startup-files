@@ -1,0 +1,21 @@
+{
+  "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+  "dictionary": "Packages/Language - English/en_US.dic",
+  "font_size": 12.0,
+  "indent_guide_options":
+  [
+    "draw_normal",
+    "draw_active"
+  ],
+  "open_files_in_new_window": false,
+  "rulers":
+  [
+    80,
+    100,
+    120
+  ],
+  "spell_check": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}
